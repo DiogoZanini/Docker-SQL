@@ -1,5 +1,5 @@
 # Docker-SQL
-Sandbox SQL database using Docker
+Sandbox SQL database using Docker for a clean environment, with better performance than a VM and no need to setup the IDE again in it.
 
 ## Dependencies
 - [Docker Installation](https://www.docker.com/products/docker-desktop/)
